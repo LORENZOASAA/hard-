@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define MBR_SIZE 512
+#define MBR_SIZE 8GB
 int main()
 {
     DWORD write;
